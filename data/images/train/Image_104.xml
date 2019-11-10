@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Image_104.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\Image_104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol plastik-Le Minerale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>69</ymin>
+			<xmax>380</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kaleng-Pocari Sweat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>209</ymin>
+			<xmax>534</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
