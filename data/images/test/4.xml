@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>test</folder>
 	<filename>4.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\4.jpg</path>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\test\4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>masker</name>
+		<name>masker medic</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>114</xmin>
+			<xmin>113</xmin>
 			<ymin>615</ymin>
-			<xmax>510</xmax>
+			<xmax>509</xmax>
 			<ymax>749</ymax>
 		</bndbox>
 	</object>
