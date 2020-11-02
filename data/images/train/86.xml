@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labelled Image</folder>
+	<filename>86.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Masker Non-Medic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>434</ymin>
+			<xmax>420</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>anggara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>153</ymin>
+			<xmax>428</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

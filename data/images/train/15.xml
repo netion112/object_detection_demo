@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labelled Image</folder>
+	<filename>15.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Masker Medic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>510</ymin>
+			<xmax>368</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zacky</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>384</ymin>
+			<xmax>377</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>
