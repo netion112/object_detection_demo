@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labelled Image</folder>
+	<filename>13211002_Asep Nurjamil_9.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\13211002_Asep Nurjamil_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>290</ymin>
+			<xmax>412</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labelled Image</folder>
+	<filename>648464949_Naura _3.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\648464949_Naura _3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Naura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>181</ymin>
+			<xmax>420</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

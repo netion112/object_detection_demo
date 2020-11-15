@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>137.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\test\137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arzak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>158</ymin>
+			<xmax>504</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Masker Non-Medic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>333</ymin>
+			<xmax>504</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

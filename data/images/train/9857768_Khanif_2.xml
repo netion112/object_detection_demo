@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labelled Image</folder>
+	<filename>9857768_Khanif_2.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\9857768_Khanif_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Khanif</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>185</ymin>
+			<xmax>492</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+</annotation>

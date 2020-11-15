@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labelled Image</folder>
+	<filename>946791649_Junaedi_0.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\946791649_Junaedi_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Junaedi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>211</ymin>
+			<xmax>416</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>
