@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Labelled Image</folder>
+	<folder>train</folder>
 	<filename>13116157_Zacky2_4.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\13116157_Zacky2_4.jpg</path>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\train\13116157_Zacky2_4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,18 +21,6 @@
 			<ymin>376</ymin>
 			<xmax>586</xmax>
 			<ymax>711</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>zacky</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>92</xmin>
-			<ymin>158</ymin>
-			<xmax>443</xmax>
-			<ymax>371</ymax>
 		</bndbox>
 	</object>
 </annotation>

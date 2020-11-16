@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Labelled Image</folder>
+	<folder>images</folder>
 	<filename>94619469464_Ahadin Sibarani_6.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\94619469464_Ahadin Sibarani_6.jpg</path>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\94619469464_Ahadin Sibarani_6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>296</xmin>
-			<ymin>315</ymin>
-			<xmax>512</xmax>
-			<ymax>552</ymax>
+			<xmin>304</xmin>
+			<ymin>314</ymin>
+			<xmax>502</xmax>
+			<ymax>559</ymax>
 		</bndbox>
 	</object>
 </annotation>

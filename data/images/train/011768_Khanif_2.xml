@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Labelled Image</folder>
+	<folder>images</folder>
 	<filename>011768_Khanif_2.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\011768_Khanif_2.jpg</path>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\011768_Khanif_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>138</xmin>
-			<ymin>136</ymin>
-			<xmax>242</xmax>
-			<ymax>267</ymax>
+			<xmin>141</xmin>
+			<ymin>141</ymin>
+			<xmax>234</xmax>
+			<ymax>261</ymax>
 		</bndbox>
 	</object>
 </annotation>

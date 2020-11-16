@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>13116157_Zacky2_7.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\train\13116157_Zacky2_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Masker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>469</ymin>
+			<xmax>530</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>
