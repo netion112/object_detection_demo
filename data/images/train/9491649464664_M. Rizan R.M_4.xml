@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>Label Name and NIS ( Adi and Users)</folder>
 	<filename>9491649464664_M. Rizan R.M_4.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\9491649464664_M. Rizan R.M_4.jpg</path>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Label Name and NIS ( Adi and Users)\9491649464664_M. Rizan R.M_4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
-			<ymin>259</ymin>
-			<xmax>457</xmax>
-			<ymax>582</ymax>
+			<xmin>183</xmin>
+			<ymin>255</ymin>
+			<xmax>458</xmax>
+			<ymax>578</ymax>
 		</bndbox>
 	</object>
 </annotation>

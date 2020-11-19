@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Labelled Image</folder>
-	<filename>94649464_Ananda Anhar, 12345678_3.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\94649464_Ananda Anhar, 12345678_3.jpg</path>
+	<folder>Label Name and NIS ( Adi and Users)</folder>
+	<filename>94649464_Anhar_3.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Label Name and NIS ( Adi and Users)\94649464_Anhar_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -30,9 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>149</xmin>
-			<ymin>153</ymin>
+			<ymin>152</ymin>
 			<xmax>444</xmax>
-			<ymax>405</ymax>
+			<ymax>404</ymax>
 		</bndbox>
 	</object>
 </annotation>

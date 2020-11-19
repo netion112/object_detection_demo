@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Labelled Image</folder>
-	<filename>648464949_Naura, 64846949 _7.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\648464949_Naura, 64846949 _7.jpg</path>
+	<folder>Label Name and NIS ( Adi and Users)</folder>
+	<filename>648464949_Naura _7.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Label Name and NIS ( Adi and Users)\648464949_Naura _7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
+			<xmin>190</xmin>
 			<ymin>233</ymin>
-			<xmax>372</xmax>
+			<xmax>371</xmax>
 			<ymax>352</ymax>
 		</bndbox>
 	</object>
