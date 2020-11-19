@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Label Name and NIS ( Adi and Users)</folder>
+	<filename>94619469464_Ahadin Sibarani_6.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Label Name and NIS ( Adi and Users)\94619469464_Ahadin Sibarani_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ahadin Sibarani, 94619469464</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>315</ymin>
+			<xmax>512</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>
