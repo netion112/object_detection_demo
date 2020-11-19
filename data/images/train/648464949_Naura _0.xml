@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Labelled Image</folder>
-	<filename>648464949_Naura _0.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\648464949_Naura _0.jpg</path>
+	<filename>648464949_Naura, 64846949 _0.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\648464949_Naura, 64846949 _0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Naura</name>
+		<name>Naura, 64846949</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

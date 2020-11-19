@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Labelled Image</folder>
-	<filename>9857768_Khanif_8.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\9857768_Khanif_8.jpg</path>
+	<filename>9857768_Khanif, 011768_8.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\9857768_Khanif, 011768_8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Khanif</name>
+		<name>Khanif, 011768</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

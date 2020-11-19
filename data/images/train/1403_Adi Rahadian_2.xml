@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Labelled Image</folder>
-	<filename>1403_Adi Rahadian_2.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\1403_Adi Rahadian_2.jpg</path>
+	<filename>1403_Adi Rahadian, 13103012_2.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\1403_Adi Rahadian, 13103012_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Adi Rahadian</name>
+		<name>Adi Rahadian, 13103012</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

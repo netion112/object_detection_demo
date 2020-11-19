@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Labelled Image</folder>
-	<filename>12345678_Ananda Anhar_2.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\12345678_Ananda Anhar_2.jpg</path>
+	<filename>12345678_Ananda Ananda Anhar, 12345678_2.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\12345678_Ananda Ananda Anhar, 12345678_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Anhar</name>
+		<name>Ananda Anhar, 12345678</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

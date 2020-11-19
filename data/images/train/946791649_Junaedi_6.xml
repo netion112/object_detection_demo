@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>946791649_Junaedi_6.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\946791649_Junaedi_6.jpg</path>
+	<filename>946791649_Junaedi, 32658_6.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\946791649_Junaedi, 32658_6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Junaedi</name>
+		<name>Junaedi, 32658</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

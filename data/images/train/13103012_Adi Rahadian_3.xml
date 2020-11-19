@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>13103012_Adi Rahadian_3.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\13103012_Adi Rahadian_3.jpg</path>
+	<filename>13103012_Adi Rahadian, 13103012_3.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\13103012_Adi Rahadian, 13103012_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Adi Rahadian</name>
+		<name>Adi Rahadian, 13103012</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

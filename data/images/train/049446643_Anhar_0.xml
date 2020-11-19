@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>049446643_Anhar_0.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\TensorFlowColab\object_detection_demo\data\images\049446643_Anhar_0.jpg</path>
+	<folder>Labelled Image</folder>
+	<filename>049446643_Ananda Anhar, 12345678_0.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Labelled Image\049446643_Ananda Anhar, 12345678_0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Anhar</name>
+		<name>Ananda Anhar, 12345678</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>199</xmin>
-			<ymin>197</ymin>
-			<xmax>403</xmax>
-			<ymax>504</ymax>
+			<xmin>192</xmin>
+			<ymin>186</ymin>
+			<xmax>411</xmax>
+			<ymax>502</ymax>
 		</bndbox>
 	</object>
 </annotation>
