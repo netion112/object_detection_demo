@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Label Name and NIS ( Adi and Users)</folder>
+	<filename>049446643_Anhar_6.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\Label Name and NIS ( Adi and Users)\049446643_Anhar_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ananda Anhar, 12345678</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>238</ymin>
+			<xmax>421</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>
