@@ -1,7 +1,7 @@
 <annotation>
 	<folder>13464346446_Magistra</folder>
-	<filename>221199_magistra_0.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\student\13464346446_Magistra\221199_magistra_0.jpg</path>
+	<filename>13464346446_Magistra_31.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\student\13464346446_Magistra\13464346446_Magistra_31.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>208</ymin>
-			<xmax>421</xmax>
-			<ymax>599</ymax>
+			<xmin>149</xmin>
+			<ymin>266</ymin>
+			<xmax>383</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>

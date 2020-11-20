@@ -1,7 +1,7 @@
 <annotation>
 	<folder>13464346446_Magistra</folder>
-	<filename>221199_magistra_6.jpg</filename>
-	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\student\13464346446_Magistra\221199_magistra_6.jpg</path>
+	<filename>13464346446_Magistra_9.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\student\13464346446_Magistra\13464346446_Magistra_9.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Masker Non-Medic</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>84</xmin>
-			<ymin>432</ymin>
-			<xmax>351</xmax>
-			<ymax>663</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Magistra, 221199</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>91</xmin>
-			<ymin>264</ymin>
-			<xmax>352</xmax>
-			<ymax>444</ymax>
+			<xmin>100</xmin>
+			<ymin>263</ymin>
+			<xmax>354</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Masker Medic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>419</ymin>
+			<xmax>341</xmax>
+			<ymax>637</ymax>
 		</bndbox>
 	</object>
 </annotation>

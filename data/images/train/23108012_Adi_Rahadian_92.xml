@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Adi Rahadian</folder>
+	<filename>23108012_Adi_Rahadian_92.jpg</filename>
+	<path>D:\Documents\Project\Smart Thermal System\Android Apps Face Detection\student\Adi Rahadian\23108012_Adi_Rahadian_92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adi Rahadian, 13103012</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>142</ymin>
+			<xmax>407</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Masker Medic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>350</ymin>
+			<xmax>395</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>
