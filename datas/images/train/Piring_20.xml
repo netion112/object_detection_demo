@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>7f87f8f439cb24cbf06e22c207185db1</id>
+	<name>Piring_25.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LPiring/Piring_25.jpeg</path>
+	<size>
+		<width>261</width>
+		<height>193</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<array>
+		<id>4h0HipC1N</id>
+		<type>RECTANGLE</type>
+		<tags>
+			<array>piring</array>
+		</tags>
+		<boundingBox>
+			<height>117.35175879396985</height>
+			<width>127.10408921933086</width>
+			<left>107.69888475836431</left>
+			<top>14.032506281407034</top>
+		</boundingBox>
+		<points>
+			<x>107.69888475836431</x>
+			<y>14.032506281407034</y>
+		</points>
+		<points>
+			<x>234.80297397769516</x>
+			<y>14.032506281407034</y>
+		</points>
+		<points>
+			<x>234.80297397769516</x>
+			<y>131.38426507537687</y>
+		</points>
+		<points>
+			<x>107.69888475836431</x>
+			<y>131.38426507537687</y>
+		</points>
+	</array>
+</regions>
+<version>2.2.0</version>
