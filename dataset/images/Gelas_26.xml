@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>95ed02a80c3c8e7e360f12646c194f3f</id>
+	<name>Gelas_26.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGelas/Gelas_26.jpeg</path>
+	<size>
+		<width>224</width>
+		<height>224</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>AwHgRZiwg</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>67.27392739273927</height>
+		<width>72.44884488448844</width>
+		<left>11.089108910891088</left>
+		<top>68.38283828382838</top>
+	</boundingBox>
+	<points>
+		<x>11.089108910891088</x>
+		<y>68.38283828382838</y>
+	</points>
+	<points>
+		<x>83.53795379537954</x>
+		<y>68.38283828382838</y>
+	</points>
+	<points>
+		<x>83.53795379537954</x>
+		<y>135.65676567656766</y>
+	</points>
+	<points>
+		<x>11.089108910891088</x>
+		<y>135.65676567656766</y>
+	</points>
+</regions>
+<regions>
+	<id>m5orB_Sfm</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>68.75247524752474</height>
+		<width>76.14521452145215</width>
+		<left>31.788778877887786</left>
+		<top>95.73597359735973</top>
+	</boundingBox>
+	<points>
+		<x>31.788778877887786</x>
+		<y>95.73597359735973</y>
+	</points>
+	<points>
+		<x>107.93399339933993</x>
+		<y>95.73597359735973</y>
+	</points>
+	<points>
+		<x>107.93399339933993</x>
+		<y>164.4884488448845</y>
+	</points>
+	<points>
+		<x>31.788778877887786</x>
+		<y>164.4884488448845</y>
+	</points>
+</regions>
+<regions>
+	<id>sy1p1pSGB</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>73.18811881188118</height>
+		<width>76.14521452145215</width>
+		<left>108.67326732673267</left>
+		<top>94.25742574257426</top>
+	</boundingBox>
+	<points>
+		<x>108.67326732673267</x>
+		<y>94.25742574257426</y>
+	</points>
+	<points>
+		<x>184.8184818481848</x>
+		<y>94.25742574257426</y>
+	</points>
+	<points>
+		<x>184.8184818481848</x>
+		<y>167.44554455445544</y>
+	</points>
+	<points>
+		<x>108.67326732673267</x>
+		<y>167.44554455445544</y>
+	</points>
+</regions>
+<regions>
+	<id>iBO7Ebs4S</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>63.57755775577557</height>
+		<width>73.18811881188118</width>
+		<left>137.50495049504948</left>
+		<top>75.77557755775577</top>
+	</boundingBox>
+	<points>
+		<x>137.50495049504948</x>
+		<y>75.77557755775577</y>
+	</points>
+	<points>
+		<x>210.69306930693068</x>
+		<y>75.77557755775577</y>
+	</points>
+	<points>
+		<x>210.69306930693068</x>
+		<y>139.35313531353134</y>
+	</points>
+	<points>
+		<x>137.50495049504948</x>
+		<y>139.35313531353134</y>
+	</points>
+</regions>
+<version>2.2.0</version>

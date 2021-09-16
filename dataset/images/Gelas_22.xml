@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>5974c05881a179920fac4f0eca55c187</id>
+	<name>Gelas_22.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGelas/Gelas_22.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>62AgysCcW</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>54.95049504950495</height>
+		<width>80.94059405940594</width>
+		<left>7.425742574257425</left>
+		<top>103.58910891089108</top>
+	</boundingBox>
+	<points>
+		<x>7.425742574257425</x>
+		<y>103.58910891089108</y>
+	</points>
+	<points>
+		<x>88.36633663366337</x>
+		<y>103.58910891089108</y>
+	</points>
+	<points>
+		<x>88.36633663366337</x>
+		<y>158.53960396039605</y>
+	</points>
+	<points>
+		<x>7.425742574257425</x>
+		<y>158.53960396039605</y>
+	</points>
+</regions>
+<regions>
+	<id>WE9F0jp0Q</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>48.26732673267327</height>
+		<width>76.48514851485149</width>
+		<left>115.0990099009901</left>
+		<top>56.806930693069305</top>
+	</boundingBox>
+	<points>
+		<x>115.0990099009901</x>
+		<y>56.806930693069305</y>
+	</points>
+	<points>
+		<x>191.58415841584159</x>
+		<y>56.806930693069305</y>
+	</points>
+	<points>
+		<x>191.58415841584159</x>
+		<y>105.07425742574257</y>
+	</points>
+	<points>
+		<x>115.0990099009901</x>
+		<y>105.07425742574257</y>
+	</points>
+</regions>
+<regions>
+	<id>y2a7Ut9UF</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>54.95049504950495</height>
+		<width>90.5940594059406</width>
+		<left>109.9009900990099</left>
+		<top>108.04455445544555</top>
+	</boundingBox>
+	<points>
+		<x>109.9009900990099</x>
+		<y>108.04455445544555</y>
+	</points>
+	<points>
+		<x>200.4950495049505</x>
+		<y>108.04455445544555</y>
+	</points>
+	<points>
+		<x>200.4950495049505</x>
+		<y>162.9950495049505</y>
+	</points>
+	<points>
+		<x>109.9009900990099</x>
+		<y>162.9950495049505</y>
+	</points>
+</regions>
+<version>2.2.0</version>
