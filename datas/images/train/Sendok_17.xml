@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>71eff2f716be2fdbe8425c191f2c65cf</id>
+	<name>Sendok_17.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LSendok/Sendok_17.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>1G_kgAfVR</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>176.48698884758366</height>
+		<width>119.6096654275093</width>
+		<left>11.71003717472119</left>
+		<top>16.310408921933085</top>
+	</boundingBox>
+	<points>
+		<x>11.71003717472119</x>
+		<y>16.310408921933085</y>
+	</points>
+	<points>
+		<x>131.31970260223048</x>
+		<y>16.310408921933085</y>
+	</points>
+	<points>
+		<x>131.31970260223048</x>
+		<y>192.79739776951675</y>
+	</points>
+	<points>
+		<x>11.71003717472119</x>
+		<y>192.79739776951675</y>
+	</points>
+</regions>
+<regions>
+	<id>1-QO9fmVX</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>159.75836431226767</height>
+		<width>117.9368029739777</width>
+		<left>71.09665427509294</left>
+		<top>3.7639405204460967</top>
+	</boundingBox>
+	<points>
+		<x>71.09665427509294</x>
+		<y>3.7639405204460967</y>
+	</points>
+	<points>
+		<x>189.03345724907064</x>
+		<y>3.7639405204460967</y>
+	</points>
+	<points>
+		<x>189.03345724907064</x>
+		<y>163.52230483271376</y>
+	</points>
+	<points>
+		<x>71.09665427509294</x>
+		<y>163.52230483271376</y>
+	</points>
+</regions>
+<regions>
+	<id>aMgsMfgOV</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>161.43122676579927</height>
+		<width>122.1189591078067</width>
+		<left>83.64312267657994</left>
+		<top>54.786245353159856</top>
+	</boundingBox>
+	<points>
+		<x>83.64312267657994</x>
+		<y>54.786245353159856</y>
+	</points>
+	<points>
+		<x>205.76208178438662</x>
+		<y>54.786245353159856</y>
+	</points>
+	<points>
+		<x>205.76208178438662</x>
+		<y>216.2174721189591</y>
+	</points>
+	<points>
+		<x>83.64312267657994</x>
+		<y>216.2174721189591</y>
+	</points>
+</regions>
+<version>2.2.0</version>

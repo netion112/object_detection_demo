@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>cff9e65f4e24231ad5126e60071a22d8</id>
+	<name>Sendok_4.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LSendok/Sendok_4.jpeg</path>
+	<size>
+		<width>299</width>
+		<height>168</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>_bIEADP6V</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>45.615894039735096</height>
+		<width>245.64684014869886</width>
+		<left>43.34944237918215</left>
+		<top>21.78228476821192</top>
+	</boundingBox>
+	<points>
+		<x>43.34944237918215</x>
+		<y>21.78228476821192</y>
+	</points>
+	<points>
+		<x>288.996282527881</x>
+		<y>21.78228476821192</y>
+	</points>
+	<points>
+		<x>288.996282527881</x>
+		<y>67.39817880794702</y>
+	</points>
+	<points>
+		<x>43.34944237918215</x>
+		<y>67.39817880794702</y>
+	</points>
+</regions>
+<regions>
+	<id>WK05Rmmbh</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>71.20529801324503</height>
+		<width>286.77323420074345</width>
+		<left>5.5576208178438655</left>
+		<top>57.38493377483443</top>
+	</boundingBox>
+	<points>
+		<x>5.5576208178438655</x>
+		<y>57.38493377483443</y>
+	</points>
+	<points>
+		<x>292.33085501858733</x>
+		<y>57.38493377483443</y>
+	</points>
+	<points>
+		<x>292.33085501858733</x>
+		<y>128.59023178807945</y>
+	</points>
+	<points>
+		<x>5.5576208178438655</x>
+		<y>128.59023178807945</y>
+	</points>
+</regions>
+<version>2.2.0</version>
