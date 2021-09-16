@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LPisau</folder>
+	<filename>Pisau_29.jpg</filename>
+	<path>E:\Katou desu\FILE SEKOLAH BOI\Mengkoding\Dataset\LPisau\Pisau_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pisau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>24</ymin>
+			<xmax>637</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>
