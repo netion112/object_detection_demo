@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>24c940e29a29b4539382e841cf8e6d21</id>
+	<name>Meja_24.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LMeja/Meja_24.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<array>
+		<id>r8vebEhUN</id>
+		<type>RECTANGLE</type>
+		<tags>
+			<array>meja</array>
+		</tags>
+		<boundingBox>
+			<height>80.29739776951673</height>
+			<width>126.30111524163569</width>
+			<left>55.204460966542754</left>
+			<top>66.49628252788105</top>
+		</boundingBox>
+		<points>
+			<x>55.204460966542754</x>
+			<y>66.49628252788105</y>
+		</points>
+		<points>
+			<x>181.50557620817844</x>
+			<y>66.49628252788105</y>
+		</points>
+		<points>
+			<x>181.50557620817844</x>
+			<y>146.79368029739777</y>
+		</points>
+		<points>
+			<x>55.204460966542754</x>
+			<y>146.79368029739777</y>
+		</points>
+	</array>
+</regions>
+<version>2.2.0</version>

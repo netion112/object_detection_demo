@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>52da208061446554429a75b9477cf08c</id>
+	<name>Piring_8.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LPiring/Piring_8.jpeg</path>
+	<size>
+		<width>275</width>
+		<height>183</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>DdQRmbTNS</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>piring</array>
+	</tags>
+	<boundingBox>
+		<height>114.50279329608938</height>
+		<width>108.364312267658</width>
+		<left>87.91821561338291</left>
+		<top>36.30927025139665</top>
+	</boundingBox>
+	<points>
+		<x>87.91821561338291</x>
+		<y>36.30927025139665</y>
+	</points>
+	<points>
+		<x>196.2825278810409</x>
+		<y>36.30927025139665</y>
+	</points>
+	<points>
+		<x>196.2825278810409</x>
+		<y>150.81206354748602</y>
+	</points>
+	<points>
+		<x>87.91821561338291</x>
+		<y>150.81206354748602</y>
+	</points>
+</regions>
+<regions>
+	<id>k_M918QHp</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>piring</array>
+	</tags>
+	<boundingBox>
+		<height>57.25139664804469</height>
+		<width>58.27137546468402</width>
+		<left>29.646840148698885</left>
+		<top>95.60535963687151</top>
+	</boundingBox>
+	<points>
+		<x>29.646840148698885</x>
+		<y>95.60535963687151</y>
+	</points>
+	<points>
+		<x>87.91821561338291</x>
+		<y>95.60535963687151</y>
+	</points>
+	<points>
+		<x>87.91821561338291</x>
+		<y>152.8567562849162</y>
+	</points>
+	<points>
+		<x>29.646840148698885</x>
+		<y>152.8567562849162</y>
+	</points>
+</regions>
+<version>2.2.0</version>
