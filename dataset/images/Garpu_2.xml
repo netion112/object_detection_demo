@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>c48fd4244344c6f56a74df6255a3c65f</id>
+	<name>Garpu_2.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGarpu/Garpu_2.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>5Ua1PMiyr</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>166.7604501607717</height>
+		<width>95.86012861736334</width>
+		<left>37.80144694533762</left>
+		<top>13.745980707395498</top>
+	</boundingBox>
+	<points>
+		<x>37.80144694533762</x>
+		<y>13.745980707395498</y>
+	</points>
+	<points>
+		<x>133.66157556270096</x>
+		<y>13.745980707395498</y>
+	</points>
+	<points>
+		<x>133.66157556270096</x>
+		<y>180.5064308681672</y>
+	</points>
+	<points>
+		<x>37.80144694533762</x>
+		<y>180.5064308681672</y>
+	</points>
+</regions>
+<regions>
+	<id>hXnE5TJX8</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>167.12218649517683</height>
+		<width>94.7749196141479</width>
+		<left>88.80627009646302</left>
+		<top>18.44855305466238</top>
+	</boundingBox>
+	<points>
+		<x>88.80627009646302</x>
+		<y>18.44855305466238</y>
+	</points>
+	<points>
+		<x>183.58118971061094</x>
+		<y>18.44855305466238</y>
+	</points>
+	<points>
+		<x>183.58118971061094</x>
+		<y>185.57073954983923</y>
+	</points>
+	<points>
+		<x>88.80627009646302</x>
+		<y>185.57073954983923</y>
+	</points>
+</regions>
+<version>2.2.0</version>

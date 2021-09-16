@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>d55788eb9f80343b065dd469564bcef3</id>
+	<name>Garpu_3.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGarpu/Garpu_3.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>1appEZSu5</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>201.12540192926045</height>
+		<width>46.30225080385852</width>
+		<left>62.03778135048231</left>
+		<top>20.618971061093248</top>
+	</boundingBox>
+	<points>
+		<x>62.03778135048231</x>
+		<y>20.618971061093248</y>
+	</points>
+	<points>
+		<x>108.34003215434083</x>
+		<y>20.618971061093248</y>
+	</points>
+	<points>
+		<x>108.34003215434083</x>
+		<y>221.7443729903537</y>
+	</points>
+	<points>
+		<x>62.03778135048231</x>
+		<y>221.7443729903537</y>
+	</points>
+</regions>
+<regions>
+	<id>fSD7HFbDR</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>207.63665594855306</height>
+		<width>31.471061093247588</width>
+		<left>103.27572347266882</left>
+		<top>13.745980707395498</top>
+	</boundingBox>
+	<points>
+		<x>103.27572347266882</x>
+		<y>13.745980707395498</y>
+	</points>
+	<points>
+		<x>134.74678456591639</x>
+		<y>13.745980707395498</y>
+	</points>
+	<points>
+		<x>134.74678456591639</x>
+		<y>221.38263665594855</y>
+	</points>
+	<points>
+		<x>103.27572347266882</x>
+		<y>221.38263665594855</y>
+	</points>
+</regions>
+<regions>
+	<id>3R7XYdxQj</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>197.86977491961414</height>
+		<width>34.90755627009644</width>
+		<left>134.56591639871382</left>
+		<top>12.29903536977492</top>
+	</boundingBox>
+	<points>
+		<x>134.56591639871382</x>
+		<y>12.29903536977492</y>
+	</points>
+	<points>
+		<x>169.47347266881027</x>
+		<y>12.29903536977492</y>
+	</points>
+	<points>
+		<x>169.47347266881027</x>
+		<y>210.16881028938906</y>
+	</points>
+	<points>
+		<x>134.56591639871382</x>
+		<y>210.16881028938906</y>
+	</points>
+</regions>
+<version>2.2.0</version>

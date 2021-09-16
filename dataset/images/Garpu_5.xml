@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>98e9adea6f64094d70980fa435f8ac1b</id>
+	<name>Garpu_5.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGarpu/Garpu_5.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>c6AeVOh3Z</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>81.39067524115755</height>
+		<width>44.4935691318328</width>
+		<left>69.63424437299035</left>
+		<top>38.70578778135048</top>
+	</boundingBox>
+	<points>
+		<x>69.63424437299035</x>
+		<y>38.70578778135048</y>
+	</points>
+	<points>
+		<x>114.12781350482315</x>
+		<y>38.70578778135048</y>
+	</points>
+	<points>
+		<x>114.12781350482315</x>
+		<y>120.09646302250803</y>
+	</points>
+	<points>
+		<x>69.63424437299035</x>
+		<y>120.09646302250803</y>
+	</points>
+</regions>
+<regions>
+	<id>WM4AOX9IR</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>72.70900321543408</height>
+		<width>57.154340836012864</width>
+		<left>112.68086816720258</left>
+		<top>44.13183279742765</top>
+	</boundingBox>
+	<points>
+		<x>112.68086816720258</x>
+		<y>44.13183279742765</y>
+	</points>
+	<points>
+		<x>169.83520900321543</x>
+		<y>44.13183279742765</y>
+	</points>
+	<points>
+		<x>169.83520900321543</x>
+		<y>116.84083601286173</y>
+	</points>
+	<points>
+		<x>112.68086816720258</x>
+		<y>116.84083601286173</y>
+	</points>
+</regions>
+<regions>
+	<id>C_Px23AwG</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>68.36816720257235</height>
+		<width>70.53858520900322</width>
+		<left>137.27893890675242</left>
+		<top>61.133440514469456</top>
+	</boundingBox>
+	<points>
+		<x>137.27893890675242</x>
+		<y>61.133440514469456</y>
+	</points>
+	<points>
+		<x>207.81752411575562</x>
+		<y>61.133440514469456</y>
+	</points>
+	<points>
+		<x>207.81752411575562</x>
+		<y>129.5016077170418</y>
+	</points>
+	<points>
+		<x>137.27893890675242</x>
+		<y>129.5016077170418</y>
+	</points>
+</regions>
+<regions>
+	<id>8oKNzGQ65</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>garpu</array>
+	</tags>
+	<boundingBox>
+		<height>79.94372990353698</height>
+		<width>70.17684887459806</width>
+		<left>109.42524115755627</left>
+		<top>133.4807073954984</top>
+	</boundingBox>
+	<points>
+		<x>109.42524115755627</x>
+		<y>133.4807073954984</y>
+	</points>
+	<points>
+		<x>179.60209003215434</x>
+		<y>133.4807073954984</y>
+	</points>
+	<points>
+		<x>179.60209003215434</x>
+		<y>213.42443729903536</y>
+	</points>
+	<points>
+		<x>109.42524115755627</x>
+		<y>213.42443729903536</y>
+	</points>
+</regions>
+<version>2.2.0</version>
