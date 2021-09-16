@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>68a848be423a02571390b789bdfc9b4e</id>
+	<name>Sendok_18.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LSendok/Sendok_18.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<array>
+		<id>a-RmHwPnc</id>
+		<type>RECTANGLE</type>
+		<tags>
+			<array>sendok</array>
+		</tags>
+		<boundingBox>
+			<height>134.6654275092937</height>
+			<width>219.98141263940522</width>
+			<left>4.182156133828997</left>
+			<top>64.82342007434944</top>
+		</boundingBox>
+		<points>
+			<x>4.182156133828997</x>
+			<y>64.82342007434944</y>
+		</points>
+		<points>
+			<x>224.1635687732342</x>
+			<y>64.82342007434944</y>
+		</points>
+		<points>
+			<x>224.1635687732342</x>
+			<y>199.48884758364312</y>
+		</points>
+		<points>
+			<x>4.182156133828997</x>
+			<y>199.48884758364312</y>
+		</points>
+	</array>
+</regions>
+<version>2.2.0</version>

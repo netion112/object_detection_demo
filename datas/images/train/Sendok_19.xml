@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>ea99aaa077477479bfd4b9da8488e74a</id>
+	<name>Sendok_19.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LSendok/Sendok_19.jpeg</path>
+	<size>
+		<width>246</width>
+		<height>205</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>txCTNzarp</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>95.17857142857143</height>
+		<width>121.62825278810408</width>
+		<left>25.605947955390334</left>
+		<top>20.2197265625</top>
+	</boundingBox>
+	<points>
+		<x>25.605947955390334</x>
+		<y>20.2197265625</y>
+	</points>
+	<points>
+		<x>147.23420074349443</x>
+		<y>20.2197265625</y>
+	</points>
+	<points>
+		<x>147.23420074349443</x>
+		<y>115.39829799107143</y>
+	</points>
+	<points>
+		<x>25.605947955390334</x>
+		<y>115.39829799107143</y>
+	</points>
+</regions>
+<regions>
+	<id>0Ys5NXwxD</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>99.75446428571428</height>
+		<width>122.54275092936803</width>
+		<left>49.38289962825279</left>
+		<top>41.26883370535714</top>
+	</boundingBox>
+	<points>
+		<x>49.38289962825279</x>
+		<y>41.26883370535714</y>
+	</points>
+	<points>
+		<x>171.9256505576208</x>
+		<y>41.26883370535714</y>
+	</points>
+	<points>
+		<x>171.9256505576208</x>
+		<y>141.02329799107142</y>
+	</points>
+	<points>
+		<x>49.38289962825279</x>
+		<y>141.02329799107142</y>
+	</points>
+</regions>
+<regions>
+	<id>KGm2rQfY1</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>93.34821428571428</height>
+		<width>128.02973977695166</width>
+		<left>70.41635687732341</left>
+		<top>66.89383370535714</top>
+	</boundingBox>
+	<points>
+		<x>70.41635687732341</x>
+		<y>66.89383370535714</y>
+	</points>
+	<points>
+		<x>198.4460966542751</x>
+		<y>66.89383370535714</y>
+	</points>
+	<points>
+		<x>198.4460966542751</x>
+		<y>160.24204799107142</y>
+	</points>
+	<points>
+		<x>70.41635687732341</x>
+		<y>160.24204799107142</y>
+	</points>
+</regions>
+<regions>
+	<id>LO9hFM5Tx</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>sendok</array>
+	</tags>
+	<boundingBox>
+		<height>98.83928571428571</height>
+		<width>123.45724907063196</width>
+		<left>95.10780669144981</left>
+		<top>87.02776227678571</top>
+	</boundingBox>
+	<points>
+		<x>95.10780669144981</x>
+		<y>87.02776227678571</y>
+	</points>
+	<points>
+		<x>218.56505576208178</x>
+		<y>87.02776227678571</y>
+	</points>
+	<points>
+		<x>218.56505576208178</x>
+		<y>185.86704799107142</y>
+	</points>
+	<points>
+		<x>95.10780669144981</x>
+		<y>185.86704799107142</y>
+	</points>
+</regions>
+<version>2.2.0</version>
