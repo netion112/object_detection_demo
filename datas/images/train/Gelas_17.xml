@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>07a39f524b49bbdc1f9771a261d007f5</id>
+	<name>Gelas_17.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGelas/Gelas_17.jpeg</path>
+	<size>
+		<width>259</width>
+		<height>194</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<id>TiWjl-i32</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>113.66519823788546</height>
+		<width>60.68976897689769</width>
+		<left>51.28712871287129</left>
+		<top>44.854487885462554</top>
+	</boundingBox>
+	<points>
+		<x>51.28712871287129</x>
+		<y>44.854487885462554</y>
+	</points>
+	<points>
+		<x>111.97689768976898</x>
+		<y>44.854487885462554</y>
+	</points>
+	<points>
+		<x>111.97689768976898</x>
+		<y>158.519686123348</y>
+	</points>
+	<points>
+		<x>51.28712871287129</x>
+		<y>158.519686123348</y>
+	</points>
+</regions>
+<regions>
+	<id>0IzF418go</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>94.00881057268722</height>
+		<width>47.867986798679866</width>
+		<left>102.57425742574257</left>
+		<top>11.52409140969163</top>
+	</boundingBox>
+	<points>
+		<x>102.57425742574257</x>
+		<y>11.52409140969163</y>
+	</points>
+	<points>
+		<x>150.44224422442244</x>
+		<y>11.52409140969163</y>
+	</points>
+	<points>
+		<x>150.44224422442244</x>
+		<y>105.53290198237885</y>
+	</points>
+	<points>
+		<x>102.57425742574257</x>
+		<y>105.53290198237885</y>
+	</points>
+</regions>
+<regions>
+	<id>B_o1VTgFo</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>105.97356828193833</height>
+		<width>51.28712871287129</width>
+		<left>153.86138613861385</left>
+		<top>25.198100220264315</top>
+	</boundingBox>
+	<points>
+		<x>153.86138613861385</x>
+		<y>25.198100220264315</y>
+	</points>
+	<points>
+		<x>205.14851485148515</x>
+		<y>25.198100220264315</y>
+	</points>
+	<points>
+		<x>205.14851485148515</x>
+		<y>131.17166850220264</y>
+	</points>
+	<points>
+		<x>153.86138613861385</x>
+		<y>131.17166850220264</y>
+	</points>
+</regions>
+<regions>
+	<id>4M2QL3xVj</id>
+	<type>RECTANGLE</type>
+	<tags>
+		<array>gelas</array>
+	</tags>
+	<boundingBox>
+		<height>109.3920704845815</height>
+		<width>53.851485148514854</width>
+		<left>117.96039603960396</left>
+		<top>71.34787995594714</top>
+	</boundingBox>
+	<points>
+		<x>117.96039603960396</x>
+		<y>71.34787995594714</y>
+	</points>
+	<points>
+		<x>171.8118811881188</x>
+		<y>71.34787995594714</y>
+	</points>
+	<points>
+		<x>171.8118811881188</x>
+		<y>180.73995044052862</y>
+	</points>
+	<points>
+		<x>117.96039603960396</x>
+		<y>180.73995044052862</y>
+	</points>
+</regions>
+<version>2.2.0</version>

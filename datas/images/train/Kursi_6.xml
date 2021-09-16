@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpg</format>
+	<id>c068742d45c938087bac9c9e099f3906</id>
+	<name>Kursi_6.jpg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LKursi/Kursi_6.jpg</path>
+	<size>
+		<width>187</width>
+		<height>300</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<array>
+		<id>NQS8wiHc9</id>
+		<type>RECTANGLE</type>
+		<tags>
+			<array>Kursi</array>
+		</tags>
+		<boundingBox>
+			<height>277.0833333333333</height>
+			<width>153.63197026022306</width>
+			<left>20.159851301115243</left>
+			<top>4.014756944444445</top>
+		</boundingBox>
+		<points>
+			<x>20.159851301115243</x>
+			<y>4.014756944444445</y>
+		</points>
+		<points>
+			<x>173.79182156133828</x>
+			<y>4.014756944444445</y>
+		</points>
+		<points>
+			<x>173.79182156133828</x>
+			<y>281.09809027777777</y>
+		</points>
+		<points>
+			<x>20.159851301115243</x>
+			<y>281.09809027777777</y>
+		</points>
+	</array>
+</regions>
+<version>2.2.0</version>
