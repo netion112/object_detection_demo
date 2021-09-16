@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>c686b052cafeae3656472088c98c380b</id>
+	<name>Garpu_10.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGarpu/Garpu_10.jpeg</path>
+	<size>
+		<width>267</width>
+		<height>189</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<array>
+		<id>enDY-FiE8</id>
+		<type>RECTANGLE</type>
+		<tags>
+			<array>garpu</array>
+		</tags>
+		<boundingBox>
+			<height>158.0064308681672</height>
+			<width>185.89761092150172</width>
+			<left>61.92315486348123</left>
+			<top>14.585209003215436</top>
+		</boundingBox>
+		<points>
+			<x>61.92315486348123</x>
+			<y>14.585209003215436</y>
+		</points>
+		<points>
+			<x>247.82076578498297</x>
+			<y>14.585209003215436</y>
+		</points>
+		<points>
+			<x>247.82076578498297</x>
+			<y>172.59163987138265</y>
+		</points>
+		<points>
+			<x>61.92315486348123</x>
+			<y>172.59163987138265</y>
+		</points>
+	</array>
+</regions>
+<version>2.2.0</version>
