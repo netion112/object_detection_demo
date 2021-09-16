@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<asset>
+	<format>jpeg</format>
+	<id>92c74b563c77a4504d99e30adea51e48</id>
+	<name>Gelas_2.jpeg</name>
+	<path>file:C:/Users/LENOVO/KEL+7+PROJECT/LabelledDatasetLast/train/LGelas/Gelas_2.jpeg</path>
+	<size>
+		<width>225</width>
+		<height>225</height>
+	</size>
+	<state>2</state>
+	<type>1</type>
+</asset>
+<regions>
+	<array>
+		<id>0Ey7A9BB7</id>
+		<type>RECTANGLE</type>
+		<tags>
+			<array>gelas</array>
+		</tags>
+		<boundingBox>
+			<height>152.22772277227722</height>
+			<width>104.70297029702971</width>
+			<left>60.89108910891089</left>
+			<top>35.272277227722775</top>
+		</boundingBox>
+		<points>
+			<x>60.89108910891089</x>
+			<y>35.272277227722775</y>
+		</points>
+		<points>
+			<x>165.59405940594058</x>
+			<y>35.272277227722775</y>
+		</points>
+		<points>
+			<x>165.59405940594058</x>
+			<y>187.5</y>
+		</points>
+		<points>
+			<x>60.89108910891089</x>
+			<y>187.5</y>
+		</points>
+	</array>
+</regions>
+<version>2.2.0</version>
