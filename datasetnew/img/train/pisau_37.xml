@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pisau</folder>
+	<filename>00000049.jpg</filename>
+	<path>C:\Users\LENOVO\KEL 7 PROJECT\DatasetFixed\train\pisau\00000049.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pisau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>83</ymin>
+			<xmax>483</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
