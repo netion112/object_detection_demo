@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>knife_132.jpg</filename>
+	<path>C:\Users\LENOVO\KEL 7 PROJECT\pisau psiau\knife\train\knife_132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pisau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>38</ymin>
+			<xmax>77</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>
