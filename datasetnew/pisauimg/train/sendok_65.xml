@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sendok_65.jpeg</filename>
+	<path>C:\Users\LENOVO\KEL 7 PROJECT\knife - Copy\subs\train\sendok_65.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>411</width>
+		<height>123</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sendok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>16</ymin>
+			<xmax>387</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
